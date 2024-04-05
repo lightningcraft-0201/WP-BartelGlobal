@@ -4,7 +4,7 @@ Welcome to the Bartell Global Website repository! This project represents a powe
 
 **Live Site URL**: [Bartell Global Website](https://www.bartellglobal.com)
 
-![Bartell Global Website](https://github.com/DevRex-0201/WP-BartelGlobal/blob/main/lib/preview1.png)
+![Bartell Global Website](https://github.com/DevRex-0201/Project-Images/blob/main/web/WP-BartelGlobal-Preview.jpeg)
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ To set up this project locally, follow these steps:
 
 ## Design Preview
 
-![Figma Design](https://github.com/DevRex-0201/WP-BartelGlobal/blob/main/lib/Bartell%20Global.png)
+![Figma Design](https://github.com/DevRex-0201/Project-Images/blob/main/web/WP-BartelGlobal-Design.jpeg)
 
 ## Contributions and Feedback
 
